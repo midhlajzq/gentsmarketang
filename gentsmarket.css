@@ -1,0 +1,21 @@
+#shop{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+#sp1{
+    color: red;
+    
+}
+body{background-image: -webkit-linear-gradient(lightblue,gray,lightseagreen);}
+#margin{
+    margin-top: 150px;
+}
+#facebook{
+    font-size: 25px;
+}
+#insta{
+    font-size: 25px;
+}
+#navcolor{
+    color: red;
+}
